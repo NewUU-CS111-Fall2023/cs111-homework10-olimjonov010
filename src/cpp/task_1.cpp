@@ -4,9 +4,6 @@
  * Name:
  */
 
-class Problem1 {
-public:
-};
 
 #include <iostream>
 #include <vector>
